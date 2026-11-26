@@ -1,0 +1,187 @@
+{
+  "_note": "Mocked Graph API responses for dry-run validation. No real data or tokens.",
+  "responses": {
+    "PAGE": {
+      "id": "PAGE"
+    },
+    "PAGE/published_posts": [
+      {
+        "data": [
+          {
+            "id": "PAGE_9000000001",
+            "message": "Mock post baru: sofa Brutti untuk ruang tamu kecil. Senang bah!",
+            "created_time": "2026-11-25T04:00:00+0000",
+            "permalink_url": "https://www.facebook.com/mock/1",
+            "attachments": {
+              "data": [
+                {
+                  "media_type": "photo",
+                  "type": "photo"
+                }
+              ]
+            },
+            "reactions": {
+              "summary": {
+                "total_count": 12
+              }
+            },
+            "comments": {
+              "summary": {
+                "total_count": 3
+              }
+            },
+            "shares": {
+              "count": 1
+            }
+          },
+          {
+            "id": "115551686985879_1750270276950835",
+            "message": "You need to learn to say \"No\" \ud83d\ude45\u200d\u2640\ufe0f\n\n& say yes for more! Satu kiosk tidak cukup? \n\nKami bikin dua sekali \u2728",
+            "created_time": "2026-11-14T11:40:37+0000",
+            "permalink_url": "https://www.facebook.com/reel/1719599202924553/",
+            "attachments": {
+              "data": [
+                {
+                  "media_type": "video"
+                }
+              ]
+            },
+            "reactions": {
+              "summary": {
+                "total_count": 10
+              }
+            },
+            "comments": {
+              "summary": {
+                "total_count": 0
+              }
+            },
+            "shares": {
+              "count": 0
+            }
+          }
+        ],
+        "paging": {
+          "after": "1"
+        }
+      },
+      {
+        "data": [
+          {
+            "id": "PAGE_old",
+            "message": "old",
+            "created_time": "2020-01-01T00:00:00+0000"
+          }
+        ]
+      }
+    ],
+    "PAGE_9000000001/insights": {
+      "data": [
+        {
+          "name": "post_media_view",
+          "period": "lifetime",
+          "values": [
+            {
+              "value": 340
+            }
+          ]
+        },
+        {
+          "name": "post_total_media_view_unique",
+          "period": "lifetime",
+          "values": [
+            {
+              "value": 210
+            }
+          ]
+        }
+      ]
+    },
+    "115551686985879_1750270276950835/insights": {
+      "data": [
+        {
+          "name": "post_media_view",
+          "period": "lifetime",
+          "values": [
+            {
+              "value": 299
+            }
+          ]
+        },
+        {
+          "name": "post_total_media_view_unique",
+          "period": "lifetime",
+          "values": [
+            {
+              "value": 203
+            }
+          ]
+        }
+      ]
+    },
+    "IG/media": [
+      {
+        "data": [
+          {
+            "id": "IG_9000000001",
+            "caption": "Mock reel: meja makan extendable",
+            "media_type": "VIDEO",
+            "permalink": "https://www.instagram.com/reel/mock1/",
+            "timestamp": "2026-11-24T10:00:00+0000",
+            "like_count": 40,
+            "comments_count": 4
+          },
+          {
+            "id": "IG_old",
+            "caption": "old",
+            "media_type": "IMAGE",
+            "permalink": "x",
+            "timestamp": "2019-01-01T00:00:00+0000"
+          }
+        ]
+      }
+    ],
+    "IG_9000000001/insights": {
+      "data": [
+        {
+          "name": "views",
+          "total_value": {
+            "value": 1200
+          }
+        },
+        {
+          "name": "reach",
+          "values": [
+            {
+              "value": 800
+            }
+          ]
+        },
+        {
+          "name": "shares",
+          "values": [
+            {
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "saved",
+          "values": [
+            {
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "total_interactions",
+          "values": [
+            {
+              "value": 59
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
