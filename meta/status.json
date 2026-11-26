@@ -1,0 +1,23 @@
+{
+  "exportedAt": "2026-11-26T10:38:15.047229+08:00",
+  "sourceUpdatedAt": "2026-11-25T23:54:31.673Z",
+  "syncedPostCount": 7267,
+  "recentPostCount": 1718,
+  "recentOverflowArchived": 0,
+  "facebook": {
+    "count": 3566
+  },
+  "instagram": {
+    "count": 3701
+  },
+  "archiveCounts": {
+    "2020": 199,
+    "2021": 740,
+    "2022": 925,
+    "2023": 701,
+    "2024": 1389,
+    "2025": 1595
+  },
+  "tokenStatus": "not_checked",
+  "note": "Token status was not read or checked during this export."
+}

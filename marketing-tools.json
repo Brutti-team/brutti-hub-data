@@ -1,0 +1,50 @@
+{
+  "exportedAt": "2026-11-26T10:38:15.047229+08:00",
+  "count": 2,
+  "tools": [
+    {
+      "id": "mt-7c3ec661-3179-4ed3-8023-43884d90fc9c",
+      "name": "Brutti Open Day",
+      "tool": "KOL",
+      "brand": "Brutti",
+      "location": "",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "cost": 200,
+      "status": "Idea",
+      "notes": "",
+      "createdAt": "2026-10-22T09:10:11+08:00",
+      "updatedAt": "2026-11-19T14:55:13+08:00",
+      "costNote": "",
+      "tiktok": "https://www.tiktok.com/@jaytamjit",
+      "instagram": "https://www.instagram.com/jaytamjit/",
+      "facebook": "",
+      "youtube": "",
+      "phone": "014-955 1880",
+      "imageFileId": "17SfKpEE9qFCHBSU0uMwm8Z5oZwXhPAXX",
+      "imageUrl": "images/marketing/mt-7c3ec661-3179-4ed3-8023-43884d90fc9c.jpg"
+    },
+    {
+      "id": "mt-9e229d8e-19b5-4d83-bcca-0536ff8d13dd",
+      "name": "KOL: Patrick Anohada",
+      "tool": "KOL",
+      "brand": "Brutti",
+      "location": "",
+      "startDate": "",
+      "endDate": "",
+      "cost": 1500,
+      "status": "Hidden",
+      "notes": "",
+      "createdAt": "2026-11-19T15:07:16+08:00",
+      "updatedAt": "2026-11-19T15:07:16+08:00",
+      "costNote": "",
+      "tiktok": "https://www.tiktok.com/@patrickanohada",
+      "instagram": "",
+      "facebook": "",
+      "youtube": "",
+      "phone": "011-14436169",
+      "imageFileId": "",
+      "imageUrl": ""
+    }
+  ]
+}
