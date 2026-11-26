@@ -22,3 +22,20 @@ Public data for the [Brutti AI Marketing Hub](https://brutti-team.github.io/brut
 Meta post data is updated from Facebook and Instagram. A scheduled GitHub Action will be added later; it is not in this repository yet.
 
 Do not commit secrets, access tokens, or the `_raw/` export folder.
+
+## Automatic Meta sync
+
+`.github/workflows/meta-sync.yml` runs every 6 hours (and on demand from the Actions tab).
+It calls `scripts/sync-meta.mjs`, which reads Facebook and Instagram posts and insights
+from the Meta Graph API (read-only, it never publishes) and updates `meta/posts-recent.json`,
+the yearly archives, `meta/style-library.json` and `meta/status.json`. It commits only when
+the data changed. `status.json` shows only `tokenStatus` (`valid` / `expired` / `error`).
+
+Required repository secrets (Settings → Secrets and variables → Actions):
+`META_PAGE_ACCESS_TOKEN`, `META_PAGE_ID`, `META_INSTAGRAM_USER_ID`, and optional `META_GRAPH_VERSION` (defaults to `v23.0`).
+
+Local dry run with mocked Graph responses (no token, writes nothing):
+
+```
+DRY_RUN=1 MOCK_GRAPH=scripts/fixtures/mock-graph.json META_PAGE_ID=PAGE META_INSTAGRAM_USER_ID=IG node scripts/sync-meta.mjs
+```
