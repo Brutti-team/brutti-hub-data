@@ -1,6 +1,6 @@
 {
   "exportedAt": "2026-11-26T10:38:15.047229+08:00",
-  "count": 10,
+  "count": 7,
   "rateSource": "Merged from src/data/kol-sabah-sample.csv by name; phones from the KOL Sabah sheet.",
   "ratesMatchedFromSample": 6,
   "kols": [
@@ -34,54 +34,6 @@
       "source": "(no source found)",
       "notes": "NOT AVAILABLE per brief. No Sabah account could be verified in search.",
       "image": "/brutti-ai-marketing-hub/kol-photos/yusuff-abdillah.jpg",
-      "rate": ""
-    },
-    {
-      "name": "Rolands John (Roland & Ayen)",
-      "handle": "@rolandayenn",
-      "niche": "Family comedy, dance & daily life; Chunk & Dunk family ambassador",
-      "location": "Kota Kinabalu (from Kuala Penyu)",
-      "tiktok": "https://www.tiktok.com/@rolandayenn",
-      "instagram": "https://www.instagram.com/rolands_j/",
-      "facebook": "https://www.facebook.com/rolandsjohn78",
-      "youtube": "",
-      "followers": "36.7K TikTok; 16.2K IG; 26K FB (as seen 16 Oct 2026)",
-      "businessContact": "014-6944468 (TikTok/FB bio); 016-6096895 (IG bio); rolandsjohn78@gmail.com",
-      "source": "Profile bios; https://www.nabalunews.com/post/two-year-old-toddler-appointed-as-ambassador-on-his-birthday",
-      "notes": "Joint family account with wife Sharleen (Ayen) and son Dondon. Both numbers kept (Michelle, 19 Oct 2026).",
-      "image": "",
-      "rate": ""
-    },
-    {
-      "name": "Sharleen Petra (Ayen)",
-      "handle": "@sp.ayen",
-      "niche": "Family & lifestyle creator; Chunk & Dunk family ambassador",
-      "location": "Kota Kinabalu",
-      "tiktok": "https://www.tiktok.com/@sp.ayen",
-      "instagram": "https://www.instagram.com/sharleen_ppg/",
-      "facebook": "https://www.facebook.com/sharleenpetra.pitirus",
-      "youtube": "",
-      "followers": "1.4K TikTok; 3.8K IG; 1.3K FB (as seen 16 Oct 2026)",
-      "businessContact": "",
-      "source": "Profile bios",
-      "notes": "Wife of Rolands John; main joint account is @rolandayenn.",
-      "image": "",
-      "rate": ""
-    },
-    {
-      "name": "Cora Jean Cantwell",
-      "handle": "@corajeancantwell",
-      "niche": "Resort life & Sabah travel/local content; does paid reviews",
-      "location": "Kota Kinabalu (Langkah Syabas Beach Resort, Kinarut)",
-      "tiktok": "https://www.tiktok.com/@corajeancantwell",
-      "instagram": "",
-      "facebook": "",
-      "youtube": "",
-      "followers": "169.9K TikTok (as seen 16 Oct 2026)",
-      "businessContact": "DM on TikTok for paid reviews",
-      "source": "https://www.tiktok.com/@corajeancantwell ; https://linktr.ee/corajeanc",
-      "notes": "Operations Director, Langkah Syabas Beach Resort. Her IG link (corajeanc) was unavailable. Numbers on her Linktree are the resort's, so they're left out.",
-      "image": "",
       "rate": ""
     },
     {
@@ -161,7 +113,7 @@
       "businessContact": "+60 14-5444 704 (bio TikTok)",
       "source": "Carian web 21 Okt 2026",
       "notes": "Status: Sudah dihubungi / rate diterima. Rate: RM2,000 (1 video, Facebook, TikTok & Instagram). Calon Brutti Open Day.",
-      "image": "",
+      "image": "/brutti-hub-data/images/kol/susi-shaundal.jpg",
       "rate": ""
     }
   ]
