@@ -6,7 +6,7 @@
     {
       "id": "BR-089",
       "name": "BFF Perfume Custom Kiosk",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "Solid Plywood + Block Board",
       "dimensions": "1220mm W × 600mm D × 850mm H",
@@ -21,7 +21,7 @@
     {
       "id": "BR-090",
       "name": "Something Sugary Custom Kiosk",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "Solid Plywood + Block Board",
       "dimensions": "4ft W × 2ft D × 85cm H",
@@ -36,7 +36,7 @@
     {
       "id": "BR-091",
       "name": "Custom Eunoia Kiosk",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "Solid Plywood + Block Board",
       "dimensions": "4ft W × 2ft D × 85cm H",
@@ -51,7 +51,7 @@
     {
       "id": "BR-092",
       "name": "Moon Panel",
-      "category": "",
+      "category": "Panels",
       "price": "",
       "material": "Solid Plywood",
       "dimensions": "4ft × 4ft",
@@ -66,7 +66,7 @@
     {
       "id": "BR-093",
       "name": "Tipsy Tiramisu Custom Kiosk",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "Plywood dan block board",
       "dimensions": "3ft × 18” × 85cm",
@@ -81,7 +81,7 @@
     {
       "id": "BR-094",
       "name": "Eunoia Kiosk Pinky Version",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "Block Board + Plywood",
       "dimensions": "4ft W × 2ft D × 85cm H",
@@ -96,7 +96,7 @@
     {
       "id": "BR-095",
       "name": "Kiosk Aura Inessa",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "Wooden",
       "dimensions": "",
@@ -111,7 +111,7 @@
     {
       "id": "BR-097",
       "name": "Candywall Serene Soiree",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "",
       "material": "",
       "dimensions": "5 kaki",
@@ -126,7 +126,7 @@
     {
       "id": "BR-098",
       "name": "Eunoia Mini Kiosk",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM487",
       "material": "",
       "dimensions": "3’ lebar x 1.5’ depth x 75cm height",
@@ -141,7 +141,7 @@
     {
       "id": "BR-099",
       "name": "Memento, Sabah Electricity",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM187",
       "material": "Acrylic + Laminated Plywood",
       "dimensions": "A4 S",
@@ -156,7 +156,7 @@
     {
       "id": "BR-100",
       "name": "Folding Stand, Tentang Gadis",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "RM340",
       "material": "Plywood & Acrylic",
       "dimensions": "",
@@ -171,7 +171,7 @@
     {
       "id": "BR-101",
       "name": "Kiosk Slim",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM 1,900",
       "material": "",
       "dimensions": "42 inch W X 20 inch H",
@@ -186,7 +186,7 @@
     {
       "id": "BR-102",
       "name": "Photobox Printer Stand",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "starts from RM1,187",
       "material": "Solid Pine Wood & Solid Plywood",
       "dimensions": "3ft (H)",
@@ -201,7 +201,7 @@
     {
       "id": "BR-103",
       "name": "Eunoia Kiosk For Dreamy Dessert",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM 1,857",
       "material": "Block Board for Structure and Body; Plywood for Body and Facade; Solid Pine Wood for Pole",
       "dimensions": "3.5ft W x 2ft D x 3ft H",
@@ -216,7 +216,7 @@
     {
       "id": "BR-105",
       "name": "Kiosk Dumowongi x KO–Nelayan",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM1,300 only",
       "material": "Solid Plywood & Solid Pine Wood",
       "dimensions": "",
@@ -231,7 +231,7 @@
     {
       "id": "BR-106",
       "name": "Barbie Box",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "",
       "material": "Plywood 9mm",
       "dimensions": "W 3.5 ft × D 2 ft × H 6.5 ft",
@@ -246,7 +246,7 @@
     {
       "id": "BR-107",
       "name": "Collapsible Photobox By Nicol",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "",
       "material": "Plywood 9mm",
       "dimensions": "W 3.5 ft × D 2 ft × H 6.5 ft",
@@ -261,7 +261,7 @@
     {
       "id": "BR-110",
       "name": "Eunoia Kiosk, Fad",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "Solid Plywood and Block Board",
       "dimensions": "5.90ft W x 2ft D x 85cm H",
@@ -276,7 +276,7 @@
     {
       "id": "BR-111",
       "name": "Kiosk Dumowongi",
-      "category": "",
+      "category": "Kiosks",
       "price": "starts from RM1,300 only",
       "material": "Solid Plywood & Solid Pine Wood",
       "dimensions": "",
@@ -291,7 +291,7 @@
     {
       "id": "BR-112",
       "name": "Potimpakon Black Edition",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Solid Upcycled Wood, Solid Pine Wood & Finger Joint",
       "dimensions": "2.8ft W x 2ft D x 2.8ft H",
@@ -306,7 +306,7 @@
     {
       "id": "BR-113",
       "name": "Osiou Rack",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "RM997",
       "material": "",
       "dimensions": "",
@@ -321,7 +321,7 @@
     {
       "id": "BR-114",
       "name": "Waterfall Display Table",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "Besi",
       "dimensions": "",
@@ -336,7 +336,7 @@
     {
       "id": "BR-006",
       "name": "Dangsanak Dining Table (Extendable)",
-      "category": "Dining Table",
+      "category": "Tables & Kitchen Counters",
       "price": "Starts from RM1,467",
       "material": "Solid Pine Wood + Steel Tube Hollow (Black Matte)",
       "dimensions": "2 ft 5 in D × 4 ft W (Extendable to 7 ft 5 in) × 75 cm H",
@@ -351,7 +351,7 @@
     {
       "id": "BR-007",
       "name": "Pino E Acciaio",
-      "category": "Dining Table",
+      "category": "Tables & Kitchen Counters",
       "price": "RM907",
       "material": "Top: Solid Pine Wood; Leg: Steel Hollow with Black Matte Finishing",
       "dimensions": "4 ft 11 in W × 2.3 ft D × 2.5 ft H",
@@ -366,7 +366,7 @@
     {
       "id": "BR-008",
       "name": "Woody Picnic Table",
-      "category": "Outdoor Table",
+      "category": "Tables & Kitchen Counters",
       "price": "RM667",
       "material": "Solid Upcycled Pine Wood with Sealer & Satin Finishing",
       "dimensions": "5 ft W × 2.6 ft D × 75 cm H",
@@ -380,7 +380,7 @@
     {
       "id": "BR-012",
       "name": "Potimpakon Kitchen Peninsular",
-      "category": "Kitchen Furniture",
+      "category": "Tables & Kitchen Counters",
       "price": "RM577",
       "material": "Top: Fingerjoint Wood; Leg: Solid Pine Wood",
       "dimensions": "2 ft 8 in W × 2 ft D × 2 ft 8 in H",
@@ -395,7 +395,7 @@
     {
       "id": "BR-019",
       "name": "Mija Cigu Study Table",
-      "category": "Study Desk",
+      "category": "Tables & Kitchen Counters",
       "price": "RM597",
       "material": "Top: Solid Pine Wood with Sealer & Satin Finishing; Leg: Steel Hollow with Anti-Rust & Black Solvent-Based Finishing",
       "dimensions": "120 cm W × 60 cm D × 73 cm H",
@@ -410,7 +410,7 @@
     {
       "id": "BR-025",
       "name": "Monocolo Dining Table",
-      "category": "Dining Table",
+      "category": "Tables & Kitchen Counters",
       "price": "RM1,787",
       "material": "Top: Merbau Wood with Timber Wax Finishing; Leg: Steel Tube Hollow (Matte Black)",
       "dimensions": "6 ft W × 3 ft 5 in D × 75 cm H",
@@ -425,7 +425,7 @@
     {
       "id": "BR-026",
       "name": "Puloudopuan Besi Kitchen Island",
-      "category": "Kitchen Island",
+      "category": "Tables & Kitchen Counters",
       "price": "RM1,157",
       "material": "Top & Shelving: Solid Pine Joint Board; Leg: Steel Hollow; Divider: Wire Mesh",
       "dimensions": "Main: 4 ft W × 2 ft D × 100 cm HLower: 2.8 ft W × 1.11 ft D × 85 cm H",
@@ -440,7 +440,7 @@
     {
       "id": "BR-027",
       "name": "Tinomod Purpose Kitchen Island",
-      "category": "Kitchen Island",
+      "category": "Tables & Kitchen Counters",
       "price": "RM1,407",
       "material": "Solid Upcycled Pine Wood, Plywood & Solid Pine Wood Frame with Wheels",
       "dimensions": "5 ft W × 2.5 ft D × 75 cm H",
@@ -455,7 +455,7 @@
     {
       "id": "BR-030",
       "name": "Gantung Open Concept Cloth Rack",
-      "category": "Clothes Rack",
+      "category": "Racks & Shelves",
       "price": "RM597",
       "material": "Solid Upcycled Pine Wood with Sealer & Satin Coating; Steel Hollow with Anti-Rust & Black Solvent-Based Finishing",
       "dimensions": "4 ft W × 1 ft 6 in D × 7 ft H",
@@ -470,7 +470,7 @@
     {
       "id": "BR-032",
       "name": "Bespoke Rack – Open Concept Modular Closet",
-      "category": "Modular Closet",
+      "category": "Racks & Shelves",
       "price": "RM1,817",
       "material": "Shelf: Solid Pine Wood with Timber Wax Coating; Rack Structure: Rectangular Steel Hollow with Anti-Rust & Black Solvent Finishing",
       "dimensions": "8 ft W × 2 ft D × 6 ft H",
@@ -485,7 +485,7 @@
     {
       "id": "BR-033",
       "name": "Adudu",
-      "category": "Storage Cabinet",
+      "category": "Built in Cabinet",
       "price": "RM397",
       "material": "Solid Upcycled Pine Wood with Sealer & Satin Finishing",
       "dimensions": "4 ft W × 1 ft D × 3 ft H",
@@ -500,7 +500,7 @@
     {
       "id": "BR-035",
       "name": "Palangko Pastry Rack",
-      "category": "Pastry Display Rack",
+      "category": "Racks & Shelves",
       "price": "Starts from RM1,397",
       "material": "Solid Pine Wood with Satin & White Finishing",
       "dimensions": "5.5 ft W × 1.5 ft D × 6 ft H",
@@ -515,7 +515,7 @@
     {
       "id": "BR-036",
       "name": "Pusma Display Rack",
-      "category": "Display Rack",
+      "category": "Racks & Shelves",
       "price": "RM717",
       "material": "Solid Pine Wood with Walnut Finishing + Steel Hollow with Anti-Rust & Black Matte Solvent-Based Finishing",
       "dimensions": "5 ft W × 1 ft D × 6 ft H",
@@ -530,7 +530,7 @@
     {
       "id": "BR-039",
       "name": "Tomodon Shawl/Sampin Organizer",
-      "category": "Wardrobe Organizer",
+      "category": "Racks & Shelves",
       "price": "RM1,097",
       "material": "Solid Pine Wood + Plywood with Sealer & Satin Finishing",
       "dimensions": "3 ft W × 10 in D × 6 ft H",
@@ -545,7 +545,7 @@
     {
       "id": "BR-041",
       "name": "Perla",
-      "category": "Queen Bed Frame",
+      "category": "Beds & Bunkbeds",
       "price": "RM1,197",
       "material": "Solid Upcycled Pine Wood with Sealer\nand Satin Coating",
       "dimensions": "*Standard queen size mattress (6’3ft\nW x 5ft D)",
@@ -560,7 +560,7 @@
     {
       "id": "BR-045",
       "name": "Sumandak",
-      "category": "Single Bed Frame",
+      "category": "Beds & Bunkbeds",
       "price": "RM837",
       "material": "Solid Upcycled Pine Wood with Sealer & Satin Coating",
       "dimensions": "Standard Single (6'3\" W × 3' D)",
@@ -575,7 +575,7 @@
     {
       "id": "BR-048",
       "name": "King Bed Frame",
-      "category": "King Bed Frame",
+      "category": "Beds & Bunkbeds",
       "price": "RM1,367",
       "material": "Solid Pine Wood & Plywood with Sealer & Satin Finishing",
       "dimensions": "King Size",
@@ -589,7 +589,7 @@
     {
       "id": "BR-050",
       "name": "Loft Bed",
-      "category": "Loft Bed",
+      "category": "Beds & Bunkbeds",
       "price": "RM2,970",
       "material": "Solid Upcycled Pine Wood with Sealer & Satin Finishing",
       "dimensions": "Custom Size",
@@ -604,7 +604,7 @@
     {
       "id": "BR-051",
       "name": "Ayyash",
-      "category": "Wall Rack",
+      "category": "Racks & Shelves",
       "price": "RM87",
       "material": "Solid Upcycled Pine Wood with Sealer & Satin Coating",
       "dimensions": "5 ft H × 20 in W",
@@ -619,7 +619,7 @@
     {
       "id": "BR-052",
       "name": "Siring",
-      "category": "Side Table",
+      "category": "Tables & Kitchen Counters",
       "price": "RM237",
       "material": "Top: Upcycled Pallet Wood; Legs: Steel Hollow",
       "dimensions": "2 ft W × 1 ft 4 in D × 75 cm H",
@@ -634,7 +634,7 @@
     {
       "id": "BR-057",
       "name": "Barn Door",
-      "category": "Barn Door",
+      "category": "Setup & Decoration",
       "price": "Starts from RM1,900",
       "material": "(Not Stated)",
       "dimensions": "Custom Size",
@@ -649,7 +649,7 @@
     {
       "id": "BR-062",
       "name": "Tondurongon",
-      "category": "Wooden Bench",
+      "category": "Tables & Kitchen Counters",
       "price": "RM587",
       "material": "Solid Pine Wood + Steel Hollow (Anti-Rust)",
       "dimensions": "120 cm W × 46 cm D × 46 cm H (80 cm Backrest)",
@@ -664,7 +664,7 @@
     {
       "id": "BR-063",
       "name": "Bespoke Signage",
-      "category": "Signage",
+      "category": "Setup & Decoration",
       "price": "Starts from RM247",
       "material": "Solid Pine Wood with Satin Coating (Herringbone Design)",
       "dimensions": "2 ft × 2 ft",
@@ -679,7 +679,7 @@
     {
       "id": "BR-064",
       "name": "Folding Table",
-      "category": "Folding Table",
+      "category": "Tables & Kitchen Counters",
       "price": "RM537",
       "material": "Solid Pine Wood with Sealer & Satin Coating",
       "dimensions": "1 ft 11 in W × 2 ft 11 in D × 1 ft H",
@@ -693,7 +693,7 @@
     {
       "id": "BR-065",
       "name": "Signage",
-      "category": "Signage",
+      "category": "Setup & Decoration",
       "price": "Starts from RM240",
       "material": "Solid Upcycled Pine Wood",
       "dimensions": "Custom Size",
@@ -708,7 +708,7 @@
     {
       "id": "BR-067",
       "name": "Lula",
-      "category": "Pastry Cabinet",
+      "category": "Displays & Mementos",
       "price": "RM947",
       "material": "Merbau Wood with Timber Wax Finishing & Glass",
       "dimensions": "3 ft W × 2 ft D × 2 ft H",
@@ -723,7 +723,7 @@
     {
       "id": "BR-068",
       "name": "Floating Shelves",
-      "category": "Floating Shelf",
+      "category": "Racks & Shelves",
       "price": "RM87 each",
       "material": "Solid Pine Wood with Sealer & Satin Finishing",
       "dimensions": "2.5 ft",
@@ -738,7 +738,7 @@
     {
       "id": "BR-069",
       "name": "Bespoke Burger Stall",
-      "category": "Burger Stall",
+      "category": "Kiosks",
       "price": "Starts from RM2,200",
       "material": "Solid Upcycled Pine Wood with Sealer & Satin Coating",
       "dimensions": "Custom Size",
@@ -753,7 +753,7 @@
     {
       "id": "BR-075",
       "name": "Wooden Crate",
-      "category": "Wooden Crate",
+      "category": "Displays & Mementos",
       "price": "RM177",
       "material": "Solid Pine Wood with Walnut Finishing",
       "dimensions": "2 ft H × 2 ft W",
@@ -768,7 +768,7 @@
     {
       "id": "BR-076",
       "name": "Arch",
-      "category": "Backdrop Arch",
+      "category": "Setup & Decoration",
       "price": "RM487",
       "material": "Solid Plywood with Undercoat",
       "dimensions": "4 ft W × 6.5 ft H",
@@ -783,7 +783,7 @@
     {
       "id": "BR-081",
       "name": "Tolungku",
-      "category": "Photo Backdrop",
+      "category": "Setup & Decoration",
       "price": "RM287 (2 ft × 4 ft)RM427 (2 ft × 6 ft Foldable)",
       "material": "Solid Plywood with Clear Finishing",
       "dimensions": "2 ft W × 4 ft H / 2 ft W × 6 ft H (Foldable)",
@@ -798,7 +798,7 @@
     {
       "id": "BR-083",
       "name": "Counter (Fluted Wall Panel - Brown Oak)",
-      "category": "Counter",
+      "category": "Reception Counters",
       "price": "Price starts from RM2800",
       "material": "Solid Pine Wood with Satin Clear\nFinishing\nFluted wall panel for facade (brown\noak)\n*Additional LED Lights RM120",
       "dimensions": "In picture: 7ft W x 2ft D x 3ft H",
@@ -812,7 +812,7 @@
     {
       "id": "BR-086",
       "name": "Counter (Solid Pine Wood)",
-      "category": "Counter",
+      "category": "Reception Counters",
       "price": "Starts from RM3200",
       "material": "Solid Plywood with Clear Finishing",
       "dimensions": "90cm H x 18inch D x 8ft W",
@@ -827,7 +827,7 @@
     {
       "id": "BR-022",
       "name": "Sukod Adjustable Desk",
-      "category": "Adjustable Desk",
+      "category": "Tables & Kitchen Counters",
       "price": "Pine: RM1,627\nMerbau: RM1,827\nSelangan Batu: RM2,327",
       "material": "Pine Wood / Merbau Wood / Selangan Batu",
       "dimensions": "5 ft W × 2 ft D",
@@ -842,7 +842,7 @@
     {
       "id": "BR-028",
       "name": "Ahtam XL Shelving Rack",
-      "category": "Shelving Rack",
+      "category": "Racks & Shelves",
       "price": "RM757",
       "material": "Rack Structure: Steel Hollow 1\" × 1\" with Anti-Rust Coating & White Solvent Finishing; Platform: Solid Pine Wood with Sealer & Satin Finishing",
       "dimensions": "7 ft H × 3 ft W × 1 ft 6 in D",
@@ -857,7 +857,7 @@
     {
       "id": "BR-044",
       "name": "Tanakvagu",
-      "category": "Single Bed",
+      "category": "Beds & Bunkbeds",
       "price": "RM717",
       "material": "Solid Upcycled Pine Wood with Sealer & Satin Coating",
       "dimensions": "Standard Single (6'3\" W × 3' D)",
@@ -872,7 +872,7 @@
     {
       "id": "BR-061",
       "name": "Mogidadamot 2.0",
-      "category": "Learning Tower",
+      "category": "Tables & Kitchen Counters",
       "price": "RM347",
       "material": "Solid Plywood with Sealer & Satin Coating",
       "dimensions": "45 cm W × 50 cm D × 85 cm H",
@@ -887,7 +887,7 @@
     {
       "id": "BR-115",
       "name": "Kiosk Tradisi Rotan",
-      "category": "Kiosk",
+      "category": "Kiosks",
       "price": "",
       "material": "Blockboard",
       "dimensions": "3ft H × 3ft L × 2ft D",
@@ -901,7 +901,7 @@
     {
       "id": "BR-116",
       "name": "Rustic Candywall",
-      "category": "Candywall",
+      "category": "Setup & Decoration",
       "price": "RM847",
       "material": "Plywood & Acrylic with Brown Finishing",
       "dimensions": "7ft H × 4ft W",
@@ -916,7 +916,7 @@
     {
       "id": "BR-117",
       "name": "Childhood Candyland Candywall",
-      "category": "Candywall",
+      "category": "Setup & Decoration",
       "price": "Starts from RM1,344",
       "material": "Solid Plywood and Acrylic with White Gloss, Rose Thought, Slim Pink Finishing",
       "dimensions": "3ft W × 6ft H",
@@ -931,7 +931,7 @@
     {
       "id": "BR-118",
       "name": "Sweet Amore Candywall",
-      "category": "Candywall",
+      "category": "Setup & Decoration",
       "price": "Starts from RM994",
       "material": "Solid Plywood and Acrylic with Creamy White and Clear Finishing",
       "dimensions": "3ft W × 6ft H",
@@ -946,7 +946,7 @@
     {
       "id": "BR-119",
       "name": "Beeline Backdrop",
-      "category": "Photo Backdrop",
+      "category": "Setup & Decoration",
       "price": "Starts from RM527",
       "material": "Solid Plywood with White Matte Finishing",
       "dimensions": "4ft W × 7ft H",
@@ -961,7 +961,7 @@
     {
       "id": "BR-120",
       "name": "Pintu Madinah Backdrop",
-      "category": "Photo Backdrop",
+      "category": "Setup & Decoration",
       "price": "Starts from RM1,800",
       "material": "Solid Plywood with Black and Gold Matte Finishing",
       "dimensions": "4ft W × 6ft H",
@@ -976,7 +976,7 @@
     {
       "id": "BR-121",
       "name": "Jiwa Shelf",
-      "category": "Shelf",
+      "category": "Racks & Shelves",
       "price": "RM827",
       "material": "Sunboard Wood & Plywood Fingerjoint with Clear Finishing",
       "dimensions": "5ft H × 3ft W",
@@ -991,7 +991,7 @@
     {
       "id": "BR-122",
       "name": "Rinondomon Cabinet",
-      "category": "Cabinet",
+      "category": "Built in Cabinet",
       "price": "Starts from RM2,500",
       "material": "Block Board, Solid Pinewood & Bendable Plywood with Robust Vine Finishing",
       "dimensions": "30 inch W × 22 inch D × 6ft H",
@@ -1006,7 +1006,7 @@
     {
       "id": "BR-123",
       "name": "Mija Nantuapan Coffee Table",
-      "category": "Coffee Table",
+      "category": "Tables & Kitchen Counters",
       "price": "RM327",
       "material": "Plywood with Clear Varnish and Walnut",
       "dimensions": "",
@@ -1021,7 +1021,7 @@
     {
       "id": "BR-124",
       "name": "Premium Kiosk",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM977",
       "material": "",
       "dimensions": "",
@@ -1035,7 +1035,7 @@
     {
       "id": "BR-125",
       "name": "Pinky Kiosk",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM777",
       "material": "",
       "dimensions": "",
@@ -1049,7 +1049,7 @@
     {
       "id": "BR-126",
       "name": "Counter Kiosk",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM740",
       "material": "",
       "dimensions": "",
@@ -1063,7 +1063,7 @@
     {
       "id": "BR-127",
       "name": "Frame Ice Cream Kiosk (Poinka Popsicles)",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM937",
       "material": "",
       "dimensions": "",
@@ -1077,7 +1077,7 @@
     {
       "id": "BR-128",
       "name": "Custom Wooden Push Cart",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1091,7 +1091,7 @@
     {
       "id": "BR-129",
       "name": "Candy Wall With 12 Removable Boxes",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1105,7 +1105,7 @@
     {
       "id": "BR-130",
       "name": "Pocket-Style Wall Panel",
-      "category": "",
+      "category": "Panels",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1119,7 +1119,7 @@
     {
       "id": "BR-131",
       "name": "Christmas Tree (S/M/L)",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "RM57 / RM77 / RM87",
       "material": "",
       "dimensions": "",
@@ -1133,7 +1133,7 @@
     {
       "id": "BR-132",
       "name": "Timbuo Plant Rack",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1147,7 +1147,7 @@
     {
       "id": "BR-133",
       "name": "Foldable Rack",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "RM1,107",
       "material": "",
       "dimensions": "",
@@ -1161,7 +1161,7 @@
     {
       "id": "BR-134",
       "name": "Logo Displayer",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM987",
       "material": "",
       "dimensions": "",
@@ -1175,7 +1175,7 @@
     {
       "id": "BR-135",
       "name": "Open Display Frame",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM1,913",
       "material": "",
       "dimensions": "",
@@ -1189,7 +1189,7 @@
     {
       "id": "BR-136",
       "name": "Crystal Displayer",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM377",
       "material": "",
       "dimensions": "",
@@ -1203,7 +1203,7 @@
     {
       "id": "BR-137",
       "name": "Chair Rack (Masjid Al-Abid)",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "RM600",
       "material": "",
       "dimensions": "",
@@ -1217,7 +1217,7 @@
     {
       "id": "BR-138",
       "name": "Mika Pegboard",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1231,7 +1231,7 @@
     {
       "id": "BR-139",
       "name": "Hanging TV Cabinet (Fluted)",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "RM1697",
       "material": "",
       "dimensions": "",
@@ -1245,7 +1245,7 @@
     {
       "id": "BR-140",
       "name": "Rustic & Minimalist TV Console",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1259,7 +1259,7 @@
     {
       "id": "BR-141",
       "name": "Floor-To-Ceiling Built-In Cabinet",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "RM680 per feet run",
       "material": "",
       "dimensions": "",
@@ -1273,7 +1273,7 @@
     {
       "id": "BR-142",
       "name": "Lexi Mini Kitchen Island",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1287,7 +1287,7 @@
     {
       "id": "BR-143",
       "name": "Aramaiti Table With Sink",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1301,7 +1301,7 @@
     {
       "id": "BR-144",
       "name": "Pegboard Working Table",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "RM1,097",
       "material": "",
       "dimensions": "",
@@ -1315,7 +1315,7 @@
     {
       "id": "BR-145",
       "name": "Study Table With Compartment",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "RM 1,367.00",
       "material": "",
       "dimensions": "",
@@ -1329,7 +1329,7 @@
     {
       "id": "BR-146",
       "name": "Sand Play Table (Meja Pasir)",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "RM 1600",
       "material": "",
       "dimensions": "",
@@ -1343,7 +1343,7 @@
     {
       "id": "BR-147",
       "name": "Sofa Table With Drawers",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1357,7 +1357,7 @@
     {
       "id": "BR-148",
       "name": "Classic Chair",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "RM240",
       "material": "",
       "dimensions": "",
@@ -1371,7 +1371,7 @@
     {
       "id": "BR-150",
       "name": "Custom Floating Table",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1385,7 +1385,7 @@
     {
       "id": "BR-151",
       "name": "Mini Folding Table (Car)",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1399,7 +1399,7 @@
     {
       "id": "BR-152",
       "name": "Live Edge Slab Table",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "RM2000",
       "material": "",
       "dimensions": "",
@@ -1413,7 +1413,7 @@
     {
       "id": "BR-153",
       "name": "Oinod Bunk Bed",
-      "category": "",
+      "category": "Beds & Bunkbeds",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1427,7 +1427,7 @@
     {
       "id": "BR-154",
       "name": "Nantuapan Momento",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM387",
       "material": "",
       "dimensions": "",
@@ -1441,7 +1441,7 @@
     {
       "id": "BR-155",
       "name": "Corporate Desk Calendar (Sabah Energy Corporation)",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM257",
       "material": "",
       "dimensions": "",
@@ -1455,7 +1455,7 @@
     {
       "id": "BR-156",
       "name": "Islamic Wall Art",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM500",
       "material": "",
       "dimensions": "",
@@ -1469,7 +1469,7 @@
     {
       "id": "BR-157",
       "name": "Handmade Wooden Gift Box",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM257",
       "material": "",
       "dimensions": "",
@@ -1483,7 +1483,7 @@
     {
       "id": "BR-158",
       "name": "Meter Box Cover",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "RM 327",
       "material": "",
       "dimensions": "",
@@ -1497,7 +1497,7 @@
     {
       "id": "BR-159",
       "name": "Partition Surau",
-      "category": "",
+      "category": "Panels",
       "price": "RM 1,500",
       "material": "",
       "dimensions": "",
@@ -1511,7 +1511,7 @@
     {
       "id": "BR-160",
       "name": "Kiosk Monocolo",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1525,7 +1525,7 @@
     {
       "id": "BR-161",
       "name": "Cutesy Candy Wall",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1539,7 +1539,7 @@
     {
       "id": "BR-162",
       "name": "Tik & Toe Game Piece",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "RM157",
       "material": "",
       "dimensions": "",
@@ -1553,7 +1553,7 @@
     {
       "id": "BR-163",
       "name": "Wardrobe By Mijan",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1567,7 +1567,7 @@
     {
       "id": "BR-164",
       "name": "Ninaaruh 12ft Table",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1581,7 +1581,7 @@
     {
       "id": "BR-165",
       "name": "Piulungan Coffee Table",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1595,7 +1595,7 @@
     {
       "id": "BR-166",
       "name": "Super Single Bed With Storage",
-      "category": "",
+      "category": "Beds & Bunkbeds",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1609,7 +1609,7 @@
     {
       "id": "BR-167",
       "name": "Baby Cot",
-      "category": "",
+      "category": "Beds & Bunkbeds",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1623,7 +1623,7 @@
     {
       "id": "BR-168",
       "name": "Engraved Kota Kinabalu Map",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1637,7 +1637,7 @@
     {
       "id": "BR-169",
       "name": "Bespoke Mirror",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1651,7 +1651,7 @@
     {
       "id": "BR-170",
       "name": "Dumowongi Kiosk With Wavy Roof",
-      "category": "",
+      "category": "Kiosks",
       "price": "RM720",
       "material": "",
       "dimensions": "",
@@ -1665,7 +1665,7 @@
     {
       "id": "BR-171",
       "name": "Wooden Arch",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "RM317",
       "material": "",
       "dimensions": "",
@@ -1679,7 +1679,7 @@
     {
       "id": "BR-172",
       "name": "Ahtam Kayu Shelving Rack",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1693,7 +1693,7 @@
     {
       "id": "BR-173",
       "name": "Open Concept Rack",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "RM967",
       "material": "",
       "dimensions": "",
@@ -1707,7 +1707,7 @@
     {
       "id": "BR-174",
       "name": "Mija Camping",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1721,7 +1721,7 @@
     {
       "id": "BR-175",
       "name": "Princess Loft Bed",
-      "category": "",
+      "category": "Beds & Bunkbeds",
       "price": "RM5000",
       "material": "",
       "dimensions": "",
@@ -1735,7 +1735,7 @@
     {
       "id": "BR-176",
       "name": "Adult Loft Bed",
-      "category": "",
+      "category": "Beds & Bunkbeds",
       "price": "RM1,500",
       "material": "",
       "dimensions": "",
@@ -1749,7 +1749,7 @@
     {
       "id": "BR-177",
       "name": "Puloudopuan 2.0 Kitchen Island",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "RM1,387",
       "material": "",
       "dimensions": "",
@@ -1763,7 +1763,7 @@
     {
       "id": "BR-178",
       "name": "2-In-1 Pallet Bench",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Pallet",
       "dimensions": "",
@@ -1777,7 +1777,7 @@
     {
       "id": "BR-179",
       "name": "Custom TV Feature Cabinet",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1791,7 +1791,7 @@
     {
       "id": "BR-180",
       "name": "Custom Wooden Stall",
-      "category": "",
+      "category": "Kiosks",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1805,7 +1805,7 @@
     {
       "id": "BR-181",
       "name": "2-In-1 Wardrobe",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1819,7 +1819,7 @@
     {
       "id": "BR-182",
       "name": "Kaanangan",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1833,7 +1833,7 @@
     {
       "id": "BR-183",
       "name": "Asymmetric Vakkenkast",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1847,7 +1847,7 @@
     {
       "id": "BR-184",
       "name": "Premium Chess Set",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -1861,7 +1861,7 @@
     {
       "id": "BR-185",
       "name": "Sulob Shoe Rack",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "7ft H × 4ft W",
@@ -1875,7 +1875,7 @@
     {
       "id": "BR-186",
       "name": "Food Waste By Fad",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "",
       "material": "Block Board & Solid Plywood with Walnut Finishing",
       "dimensions": "120cm W × 50cm D × 120cm H",
@@ -1889,7 +1889,7 @@
     {
       "id": "BR-187",
       "name": "Dismantle Stool",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "RM157",
       "material": "Block Board with Clear Gloss Finishing",
       "dimensions": "25cm × 25cm D × 30cm H",
@@ -1903,7 +1903,7 @@
     {
       "id": "BR-188",
       "name": "Pinewood Photo Frame",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "Premium Pinewood with Clear Coating",
       "dimensions": "5R (5 × 7 inch) or 4R (4 × 6 inch)",
@@ -1917,7 +1917,7 @@
     {
       "id": "BR-189",
       "name": "Hidden Whiteboard Wall Art",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "8ft W × 4ft H",
@@ -1931,7 +1931,7 @@
     {
       "id": "BR-190",
       "name": "Custom Extendable Mija Cigu",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Solid Pine Wood with Smooth Sealer",
       "dimensions": "4ft (L) × 30cm (W) × 2ft (D) × 2.5ft (H)",
@@ -1945,7 +1945,7 @@
     {
       "id": "BR-191",
       "name": "Sukod Manual",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "Starts from RM1,327",
       "material": "Solid Pine Wood for the Top with Clear Finishing",
       "dimensions": "140cm W × 60cm D",
@@ -1959,7 +1959,7 @@
     {
       "id": "BR-192",
       "name": "Shoe Rack (Projek Far East)",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "Laminated Blockboard with Birmingham Ash Formica",
       "dimensions": "",
@@ -1973,7 +1973,7 @@
     {
       "id": "BR-193",
       "name": "Pine Box Shelf 3 Tiers",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "Pine Box Shelf with Iron Frame",
       "dimensions": "",
@@ -1987,7 +1987,7 @@
     {
       "id": "BR-194",
       "name": "Rak Island",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "Iron Frame + Blockboard",
       "dimensions": "7ft H",
@@ -2001,7 +2001,7 @@
     {
       "id": "BR-195",
       "name": "Dapur Mainan",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2015,7 +2015,7 @@
     {
       "id": "BR-196",
       "name": "Massironi Shelf",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2029,7 +2029,7 @@
     {
       "id": "BR-197",
       "name": "Mr Agatang Display Rack",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "Solid Pine Wood & Steel Hollow",
       "dimensions": "5ft W × 1ft D × 6.5ft H",
@@ -2043,7 +2043,7 @@
     {
       "id": "BR-198",
       "name": "Bespoke Memento (Sabah Muaythai Expo)",
-      "category": "",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "Two types: fist shape with black laminated finish; natural raw finish",
       "dimensions": "",
@@ -2057,7 +2057,7 @@
     {
       "id": "BR-199",
       "name": "Space Divider With Bicycle Storage",
-      "category": "",
+      "category": "Setup & Decoration",
       "price": "",
       "material": "Pine wood",
       "dimensions": "",
@@ -2071,7 +2071,7 @@
     {
       "id": "BR-200",
       "name": "Shaka Bar Stools",
-      "category": "",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Wood",
       "dimensions": "",
@@ -2085,7 +2085,7 @@
     {
       "id": "BR-201",
       "name": "Kids House-Shaped Wardrobe Rack",
-      "category": "",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2099,7 +2099,7 @@
     {
       "id": "BR-202",
       "name": "Hidden Pull-Out Pantry Storage",
-      "category": "",
+      "category": "Built in Cabinet",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2113,7 +2113,7 @@
     {
       "id": "BR-203",
       "name": "Puloudopuan Premium Kitchen Island",
-      "category": "Kitchen Island",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Hard wood strips; fluted side panel; drawers + shelf",
       "dimensions": "",
@@ -2127,7 +2127,7 @@
     {
       "id": "BR-204",
       "name": "Bungadau Plant Rack (4 Tier)",
-      "category": "Plant Rack",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "Besi dan kayu pallet",
       "dimensions": "4 tier",
@@ -2141,7 +2141,7 @@
     {
       "id": "BR-205",
       "name": "Rabas Bedside Table",
-      "category": "Bedside Table",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "Height made to request",
@@ -2155,7 +2155,7 @@
     {
       "id": "BR-206",
       "name": "Pamanahon Shoe Rack",
-      "category": "Shoe Rack",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "Kayu pine",
       "dimensions": "2, 3 or 4 tier",
@@ -2169,7 +2169,7 @@
     {
       "id": "BR-207",
       "name": "Greycanyon Bunk Bed",
-      "category": "Bed",
+      "category": "Beds & Bunkbeds",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2183,7 +2183,7 @@
     {
       "id": "BR-208",
       "name": "Pandan Table (Mija Pandan)",
-      "category": "Side Table",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Top: kayu pine (finger joint pine in 2025 post); legs: hollow rectangular steel",
       "dimensions": "",
@@ -2197,7 +2197,7 @@
     {
       "id": "BR-209",
       "name": "Aki Aesthetic Display",
-      "category": "Display",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2211,7 +2211,7 @@
     {
       "id": "BR-210",
       "name": "Malanut Aesthetic Wall Panel",
-      "category": "Backdrop",
+      "category": "Panels",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2225,7 +2225,7 @@
     {
       "id": "BR-211",
       "name": "Majon Coffee Table",
-      "category": "Coffee Table",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2239,7 +2239,7 @@
     {
       "id": "BR-212",
       "name": "Konsou Book Shelf",
-      "category": "Shelf",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2253,7 +2253,7 @@
     {
       "id": "BR-213",
       "name": "Kunjel Credenza",
-      "category": "Credenza",
+      "category": "Built in Cabinet",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2267,7 +2267,7 @@
     {
       "id": "BR-214",
       "name": "Sesyl Kitchen Counter",
-      "category": "Kitchen Counter",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2281,7 +2281,7 @@
     {
       "id": "BR-215",
       "name": "Gondola Display",
-      "category": "Display",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2295,7 +2295,7 @@
     {
       "id": "BR-216",
       "name": "Jeep Kids Bed",
-      "category": "Bed",
+      "category": "Beds & Bunkbeds",
       "price": "",
       "material": "",
       "dimensions": "Fits single mattress",
@@ -2309,7 +2309,7 @@
     {
       "id": "BR-217",
       "name": "Billiard Table",
-      "category": "Table",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2323,7 +2323,7 @@
     {
       "id": "BR-218",
       "name": "Custom Triple Bed",
-      "category": "Bed",
+      "category": "Beds & Bunkbeds",
       "price": "",
       "material": "",
       "dimensions": "3 single mattresses",
@@ -2337,7 +2337,7 @@
     {
       "id": "BR-219",
       "name": "Classic Bench",
-      "category": "Bench",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Merbau wood; steel hollow",
       "dimensions": "",
@@ -2351,7 +2351,7 @@
     {
       "id": "BR-220",
       "name": "Day Bed",
-      "category": "Bed",
+      "category": "Beds & Bunkbeds",
       "price": "",
       "material": "Kayu (2024-03 version: upcycled pallet wood + some new wood)",
       "dimensions": "Fits single mattress",
@@ -2365,7 +2365,7 @@
     {
       "id": "BR-221",
       "name": "Mug Rack",
-      "category": "Rack",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "Upcycled pallet wood",
       "dimensions": "",
@@ -2379,7 +2379,7 @@
     {
       "id": "BR-222",
       "name": "Kelarai Credenza",
-      "category": "Credenza",
+      "category": "Built in Cabinet",
       "price": "",
       "material": "Solid pine wood",
       "dimensions": "",
@@ -2393,7 +2393,7 @@
     {
       "id": "BR-223",
       "name": "Kiosk Bertingkat (Nims)",
-      "category": "Kiosk",
+      "category": "Kiosks",
       "price": "",
       "material": "Body solid plywood; pillars solid pinewood; wheels",
       "dimensions": "",
@@ -2407,7 +2407,7 @@
     {
       "id": "BR-224",
       "name": "Round Hanging Shelf",
-      "category": "Shelf",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "Flexible bending plywood",
       "dimensions": "",
@@ -2421,7 +2421,7 @@
     {
       "id": "BR-225",
       "name": "LED Bookshelf (Ooze Club)",
-      "category": "Shelf",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "About 9-10 ft tall",
@@ -2435,7 +2435,7 @@
     {
       "id": "BR-226",
       "name": "Bespoke Display Cabinet",
-      "category": "Cabinet",
+      "category": "Displays & Mementos",
       "price": "",
       "material": "",
       "dimensions": "",
@@ -2449,7 +2449,7 @@
     {
       "id": "BR-227",
       "name": "Bespoke Wall Rack (Sabah Art Gallery)",
-      "category": "Rack",
+      "category": "Racks & Shelves",
       "price": "",
       "material": "",
       "dimensions": "8ft W x 8ft H",
@@ -2463,7 +2463,7 @@
     {
       "id": "BR-228",
       "name": "Meja Ceramah (Masjid Nurhikmah)",
-      "category": "Table",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Solid pine wood; wheels",
       "dimensions": "",
@@ -2477,7 +2477,7 @@
     {
       "id": "BR-229",
       "name": "Nook Cafe Table",
-      "category": "Table",
+      "category": "Tables & Kitchen Counters",
       "price": "",
       "material": "Upcycled pallet wood; steel hollow",
       "dimensions": "3 seater",
